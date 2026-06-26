@@ -11,7 +11,7 @@ def test_login(driver):
     # url = os.environ.get("APP_URL", "http://34.123.38.242")
     # username = os.environ.get("APP_USERNAME", "user1")
     # password = os.environ.get("APP_PASSWORD", "Hdjsy@1hrts")
-
+    # TEST
     url = os.environ.get("APP_URL")
     username = os.environ.get("APP_USERNAME")
     password = os.environ.get("APP_PASSWORD")
