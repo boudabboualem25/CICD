@@ -1,3 +1,5 @@
-selenium>=4.6.0
-pytest>=7.0.0
+pytest
+requests
 pytest-html
+selenium
+webdriver-manager
